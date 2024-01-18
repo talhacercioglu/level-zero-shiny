@@ -1,0 +1,26 @@
+{
+    "id": "AAE797CA",
+    "path": "~/Desktop/level-zero-shiny/app.R",
+    "project_path": "app.R",
+    "type": "r_source",
+    "hash": "2649176143",
+    "contents": "",
+    "dirty": false,
+    "created": 1705577373238.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "52,0",
+        "scrollLine": "8"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1705579187,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1705579187548,
+    "read_only": false,
+    "read_only_alternatives": []
+}
