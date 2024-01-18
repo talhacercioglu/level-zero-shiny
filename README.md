@@ -29,4 +29,4 @@ This Shiny app converts the Turkish Lira value entered by the user into US Dolla
 
 ## To run the Shiny app, execute the following command in the RStudio console:
 - shiny::runGitHub("USERNAME/REPO")
--(Note: Replace USERNAME and REPO with the GitHub username and repository of this app.)
+- (Note: Replace USERNAME and REPO with the GitHub username and repository of this app.)
