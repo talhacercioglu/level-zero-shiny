@@ -2,6 +2,8 @@
 
 This Shiny app converts the Turkish Lira value entered by the user into US Dollars, Euros, and British Pounds using predefined exchange rates. Users can input the amount in Turkish Lira through the user interface and then click the "Convert" button to see the results.
 
+## You can access the live version of this code from the link: https://talhacercioglu.shinyapps.io/level-zero-shiny/
+
 ## Usage
 
 1. **Turkish Lira Amount Input:**
